@@ -6,6 +6,6 @@ In this project, I trained multiple predictors in a uniform and automated Python
 
 1) Ensure labeled dataset is located in script directory (Example of data schema has been included in this repo)
 
-2) To build the script: `python3 weather_clusters.py monthly-data-labelled.csv`
+2) To build the script: `python3 colour_multiple_predictors.py colour-data.csv`
 
 3) The script will output predictions of the training data in the format of a color plot
